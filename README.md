@@ -2,11 +2,11 @@
 Projeto calculadora de gorjeta desenvolvido na disciplina de Desenvolvimento de Interfaces Android.
 
 <p align="center">
-  <img width="600" src="src/image/to_readme/tela.jpg">
+  <img width="600" src="image/tela.jpg">
 </p>
 
 <p align="center">
-  <img width="600" src="src/image/to_readme/tela.gif">
+  <img width="600" src="image/tela.gif">
 </p>
 
 ## Descrição
